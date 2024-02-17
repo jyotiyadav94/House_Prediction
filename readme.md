@@ -1,7 +1,5 @@
 # Introduction
 
-The objective of this project is to apply Object Oriented Programming(OOP) approach for Data Science problems.
-Object oriented programming is largely based on personal experience and is open to development. For this reason, code design can be improved according to the comments to be made for the kernel. Comments and criticisms will provide a better code design.
 This project consists of five classes:
 
 ## Class I : HouseObjectOriented Class.
