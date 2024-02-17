@@ -6,7 +6,7 @@ This project consists of five classes:
 1) Adds the data to the object.
 2) Concats the data in one DataFrame.
 3) Shows information about the data.
-4) Preprocess the data before Ml part.
+4) Preprocess the data before ML part.
 5) Adds the data after Preprocessing for the ML part.
 
 ## Class II : Information Class.
